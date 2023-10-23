@@ -1,13 +1,3 @@
----
-date: 2022-10-23
-tags:
-    - multi-zone cluster
-    - region
-    - availability zone
-draft: false
-author: bob.pacheco
-title: Deploying Crunchy Postgres for Kubernetes in a Multi-Zone Cluster
----
 # Deploying Crunchy Postgres for Kubernetes in a Multi-Zone Cluster
 
 ## Terminology
